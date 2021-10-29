@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pr-in-ce
+- 👋 Hi, I’m @pr_in_ce
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on Python Project
